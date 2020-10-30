@@ -17,7 +17,7 @@ Credits:
 - apomakros (The Music)
 - dots-tb
 - GrapheteCt
-- BigBlackOniiSan
+- SonicMastr
 - CreepNT
 - teakhanirons
 - Team CBPS
